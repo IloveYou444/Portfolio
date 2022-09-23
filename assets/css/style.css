@@ -48,7 +48,7 @@
     --primary-color: #DF5646;
     --light-color: #FAFAFA;
     --base-font: 'Poppins', sans-serif;
-    --heading-font: 'Playfair Display', serif;
+    --heading-font: 'IBM Plex Sans Thai' , 'Playfair Display', serif;
 }
 
 body {
